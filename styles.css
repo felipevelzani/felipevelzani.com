@@ -1017,7 +1017,7 @@ footer {
 }
 
 /* Additional mobile improvements for very small screens */
-@media (max-width: 480px) {
+@media (max-width: 580px) {
     .header-content {
         padding: 12px 0;
     }
@@ -1039,11 +1039,11 @@ footer {
     }
     
     .hero h1 {
-        font-size: 28px;
+        font-size: 18px;
     }
     
     .hero p {
-        font-size: 16px;
+        font-size: 15px;
         max-width: 100%;
     }
     
